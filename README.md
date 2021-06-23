@@ -33,18 +33,18 @@ python3 file_name.py
 
 ### 4. Authors and contributors
 
-This code has been developed by [Nirav Vasant Shah] [email](mailto:shah.nirav@sissa.it) under the supervision of [Dr. Michele Girfoglio] [email](mailto:michele.girfoglio@sissa.it), [Prof. Gianluigi Rozza] [email](mailto:gianluigi.rozza@sissa.it), [Dr. Alejandro Lengomin Pieiga] [email](mailto:alejandro.lengomin@arcelormittal.com), [Prof. Peregrina Quintela] [email](mailto:peregrina.quintela@itmati.com) and [Dr. Patricia Barral Rodiño] [email](mailto:patricia.barral@usc.es).
+This code has been developed by [Nirav Vasant Shah] [email](mailto:shah.nirav@sissa.it) under the supervision of [Dr. Michele Girfoglio] [email](mailto:michele.girfoglio@sissa.it), [Dr. Patricia Barral Rodiño] [email](mailto:patricia.barral@usc.es), [Prof. Peregrina Quintela] [email](mailto:peregrina.quintela@itmati.com), [Prof. Gianluigi Rozza] [email](mailto:gianluigi.rozza@sissa.it) and [Dr. Alejandro Lengomin Pieiga] [email](mailto:alejandro.lengomin@arcelormittal.com).
 
 ### 5. How to cite
 
 @misc{thermomechanical_coupled_one_way-0.1,
-  key          = {ThermoMechanicalCoupled},
-  author       = {Shah, N.V. and Girfoglio, M. and Barral, P. and Quintela, P. and Rozza, G. and Lengomin, A.},
-  title        = {{ThermoMechanicalCoupled} -- {Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnaces} {Version 0.1}},
-  month        = June,
-  year         = 2021,
-  doi          = {10.xxxx/zenodo.xxxxxxx},
-  note         = {see also: \url{https://zenodo.org/record/3888145}}
+	key          = {ThermoMechanicalCoupled},
+	author       = {Shah, N.V. and Girfoglio, M. and Barral, P. and Quintela, P. and Rozza, G. and Lengomin, A.},
+	title        = {{ThermoMechanicalCoupled} -- {Coupled parameterized reduced order modelling of thermo-mechanical phenomena arising in blast furnaces} {Version 0.1}},
+	month        = June,
+	year         = 2021,
+	doi          = {10.xxxx/zenodo.xxxxxxx},
+	note         = {see also: \url{https://zenodo.org/record/3888145}}
 }
 
 ### 6. License
